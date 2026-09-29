@@ -1,6 +1,17 @@
-## Hi there 👋
+## Welcome! 👋
 
-<!--
+#### My name is **Theerathon Dunla.** or **Title** I'm grade 11 student in Thailand 🇹🇭 !.  Who's new to using git.
+#### Programming Languages
+- Python 
+- Java 
+- C/C++
+#### My current interests :
+- Edge AI 🤖
+- IoT/Microcontrollers 🌐
+- CP 🏆
+
+### Please dont be too **harsh** on me. I'm a newbie😥!
+<!--*
 **TleNotGoodAtPython/TleNotGoodAtPython** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
